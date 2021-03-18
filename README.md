@@ -1,2 +1,2 @@
 # webtasarimodev
-mısra Resturant
+ Resturant
